@@ -1,0 +1,44 @@
+2022-08-11 22:47:280887
+2022-08-11 22:47:280923
+The function name: 'single_nested', 
+arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],){},
+results ('a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None)
+************************
+2022-08-11 22:47:281183
+The function name: 'many_nested', 
+arguments: ([[[['Beautiful', 'is', 'better'], ['than', 'ugly', '.']], [['Explicit', 'is', 'better'], ['than', 'implicit', '.']]], [[['Simple', 'is', 'better'], ['than', 'complex', '.']], [['Complex', 'is', 'better'], ['than', 'complicated', '.']]]],){},
+results('Beautiful', 'is', 'better', 'than', 'ugly', '.', 'Explicit', 'is', 'better', 'than', 'implicit', '.', 'Simple', 'is', 'better', 'than', 'complex', '.', 'Complex', 'is', 'better', 'than', 'complicated', '.')
+************************
+2022-08-11 22:59:158478
+2022-08-11 22:59:158514
+The function name: 'single_nested', 
+arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],){},
+results ('a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None)
+************************
+2022-08-11 22:59:158687
+The function name: 'many_nested', 
+arguments: ([[[['Beautiful', 'is', 'better'], ['than', 'ugly', '.']], [['Explicit', 'is', 'better'], ['than', 'implicit', '.']]], [[['Simple', 'is', 'better'], ['than', 'complex', '.']], [['Complex', 'is', 'better'], ['than', 'complicated', '.']]]],){},
+results('Beautiful', 'is', 'better', 'than', 'ugly', '.', 'Explicit', 'is', 'better', 'than', 'implicit', '.', 'Simple', 'is', 'better', 'than', 'complex', '.', 'Complex', 'is', 'better', 'than', 'complicated', '.')
+************************
+2022-08-11 22:06:797032
+2022-08-11 22:06:797076
+The function name: 'single_nested', 
+arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],){},
+results ('a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None)
+************************
+2022-08-11 22:06:797307
+The function name: 'many_nested', 
+arguments: ([[[['Beautiful', 'is', 'better'], ['than', 'ugly', '.']], [['Explicit', 'is', 'better'], ['than', 'implicit', '.']]], [[['Simple', 'is', 'better'], ['than', 'complex', '.']], [['Complex', 'is', 'better'], ['than', 'complicated', '.']]]],){},
+results('Beautiful', 'is', 'better', 'than', 'ugly', '.', 'Explicit', 'is', 'better', 'than', 'implicit', '.', 'Simple', 'is', 'better', 'than', 'complex', '.', 'Complex', 'is', 'better', 'than', 'complicated', '.')
+************************
+2022-08-11 22:11:077075
+2022-08-11 22:11:077137
+The function name: 'single_nested', 
+arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],){},
+results ('a', 'b', 'c', 'd', 'e', 'f', 'h', False, 1, 2, None)
+************************
+2022-08-11 22:11:077455
+The function name: 'many_nested', 
+arguments: ([[[['Beautiful', 'is', 'better'], ['than', 'ugly', '.']], [['Explicit', 'is', 'better'], ['than', 'implicit', '.']]], [[['Simple', 'is', 'better'], ['than', 'complex', '.']], [['Complex', 'is', 'better'], ['than', 'complicated', '.']]]],){},
+results('Beautiful', 'is', 'better', 'than', 'ugly', '.', 'Explicit', 'is', 'better', 'than', 'implicit', '.', 'Simple', 'is', 'better', 'than', 'complex', '.', 'Complex', 'is', 'better', 'than', 'complicated', '.')
+************************

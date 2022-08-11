@@ -1,0 +1,45 @@
+2022-08-11 21:22:556170
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:37:317225
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:41:530956
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:41:918476
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:42:229606
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:46:674190
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:21:877323
+The function name: flatten_many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:34:078548
+The function name: many_nested,
+arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
+results('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine')
+************************
+2022-08-11 21:56:228516
+The function name: many_nested,
+arguments: ([[[['Beautiful', 'is', 'better'], ['than', 'ugly', '.']], [['Explicit', 'is', 'better'], ['than', 'implicit', '.']]], [[['Simple', 'is', 'better'], ['than', 'complex', '.']], [['Complex', 'is', 'better'], ['than', 'complicated', '.']]]],){},
+results('Beautiful', 'is', 'better', 'than', 'ugly', '.', 'Explicit', 'is', 'better', 'than', 'implicit', '.', 'Simple', 'is', 'better', 'than', 'complex', '.', 'Complex', 'is', 'better', 'than', 'complicated', '.')
+************************
