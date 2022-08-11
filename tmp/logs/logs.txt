@@ -1,8 +1,0 @@
-2022-08-11 21:05:498743
-The function "flatten_many_nested" was called,
-with arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
-('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine') was returned.
-2022-08-11 21:38:017122
-The function "flatten_many_nested" was called,
-with arguments: ([[[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]], [[['we', 'all'], ['live', 'in']], [['the', 'yellow'], ['submarine', 'yellow', 'submarine']]]],){},
-('we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine', 'we', 'all', 'live', 'in', 'the', 'yellow', 'submarine', 'yellow', 'submarine') was returned.
